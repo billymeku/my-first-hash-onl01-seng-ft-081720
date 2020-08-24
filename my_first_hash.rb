@@ -11,7 +11,9 @@ def shipping_manifest
 
 the_manifest ={"whale bone corset" => 5,
   "porcelain vase" => 2,
-  "oil painting" => 3}
+  "oil painting" => 3
+  
+}
 end
 
 def retrieval
